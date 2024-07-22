@@ -15,6 +15,5 @@ BNPB is the abbreviation of Badan Nasional Penanggulangan Bencana. This is an In
 The appearance of this website is as follows. The website uses dropdown menus to select the year, type of disaster, and province. Once selected, the website will display data regarding the number of disasters, the number of victims (dead, missing, injured, suffering, displaced), and the number of buildings affected (houses, educational facilities, health facilities, worship facilities, public facilities).
 
 ## Web Scrapping DIBI Website
-![Watch the video](https://github.com/annisatierra/Web-Scrapping/blob/main/GIF.gif)
-
+![GIF web driver](https://github.com/user-attachments/assets/9ec72eda-22e1-4b85-8deb-d801e9cf8053)
 
